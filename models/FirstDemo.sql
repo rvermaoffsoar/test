@@ -1,0 +1,1 @@
+select  * from customer where c_custkey=5200001
