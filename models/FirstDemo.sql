@@ -1,1 +1,1 @@
-select  * from customer where c_custkey=5200001
+select * from MY_FIRST_DBT_MODEL where ID = 3
